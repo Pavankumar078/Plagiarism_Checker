@@ -1,0 +1,75 @@
+source_text,plagiarized_text,label
+Researcher have discovered a new species of butterfly in the Amazon rain forest.,Scientist have found a previously unknown butterfly species in the Amazon jungle.,1
+The moon orbits the earth in approximately 27.3 days,Our natural satellite takes around 27.3 days to complete one orbit around our planet.,1
+Water is composed of two hydrogen atoms and one oxygen atom. ,H20 consists of 2 hydrosen atom and 1 oxygen atom ,1
+The history of Rome dates back to 753 BC.,Rome has a long history that can be traced back to 753 BC.,1
+Pluto was once considered the ninth planet in our solar system,In the past Pluto was classified as the ninth planet in our sun’s planetary system.,1
+This is a unique and originial sentence ,This sentence is unique and original,0
+Artificial Intelligence is reshaping industries.,AI is changing the landscape of various sector.,0
+Python is a popular programming Language for data science.,Data science often relies on python as a widely used programming langauage.,0
+The Earth revolves around the Sun in a nearly circular orbit,Our planet follows an almost circular path as it moves around the central star,0
+Paris is the capital of France,France’s capital city is Paris,0
+Research shows that regular exercise is beneficial for overall health.,Studies indicate that consistent physical activity contributes to general well-being.,1
+The human brain consists of approximately 86 billion neurons,About 86 billion neurons make up the structure of the human brain.,1
+Global warming is causing changes in weather patterns,Climate change is leading to alterations in global weather patterns.,1
+Photosynthesis is the process by which plants convert sunlight into energy,Plants utilize sunlight to produce energy through the process of photosynthesis.,1
+The Great Wall of China is a UNESCO World Heritage Site,The Great Wall is recognized as a UNESCO World Heritage Site,1
+Cats are known for their agility and hunting skills,These animals are famous for their hunting prowess and agility,1
+Mount Everest is the highest peak in the world,The summit of Mount Everest is the highest point on Earth,1
+Water boils at 100 degrees Celsius at sea level,At sea level  water boils at a temperature of 100 degrees Celsius,1
+The Atlantic Ocean is the smallest ocean, The smallest ocean on Earth is the Atlantic Ocean,0
+Owls are blind during the day,Owls have perfect vision during the day,0
+A cat has nine lives,Cats only have one life,0
+The Eiffel Tower is located in Paris,Paris is the home of the iconic Eiffel Tower,1
+The Declaration of Independence was signed in 1776,1776 marks the year when the Declaration of Independence was signed,1
+Elephants are the largest land animals on Earth,The largest land animals on Earth are elephants,1
+The Pacific Ocean is the largest ocean on the planet,The largest ocean on Earth is the Pacific Ocean,1
+The human body has 206 bones,There are 206 bones in the human body,1
+In chemistry  H2O is the chemical formula for water,Water's chemical formula is H2O in the field of chemistry,1
+The Sahara Desert is the largest hot desert in the world,The largest hot desert globally is the Sahara Desert,1
+William Shakespeare is widely regarded as one of the greatest playwrights,Many consider William Shakespeare one of the greatest playwrights of all time,1
+The Amazon River is the second-longest river in the world,The Amazon is the world's second-longest river,1
+Photosynthesis is the process by which plants produce oxygen and glucose,Plants produce oxygen and glucose through the process of photosynthesis,1
+Venus is the hottest planet in our solar system,Venus holds the title of the hottest planet in our solar system,1
+The Mona Lisa is a famous painting by Leonardo da Vinci,Leonardo da Vinci created the renowned painting known as the Mona Lisa,1
+The nucleus is the central part of an atom,An atom's central part is called the nucleus,1
+The United States Constitution was adopted in 1787,1787 is the year when the United States Constitution was adopted,1
+The Arctic Circle is located around the North Pole,The Arctic Circle surrounds the North Pole,1
+Oxygen is essential for human survival,Human survival requires the presence of oxygen,1
+The first manned moon landing occurred in 1969,1969 saw the first successful manned landing on the moon,1
+Diamonds are formed under high pressure and heat,High pressure and heat contribute to the formation of diamonds,1
+Jupiter is the largest planet in our solar system,The largest planet in our solar system is Jupiter,1
+Antarctica is the southernmost continent on Earth,The southernmost continent on Earth is Antarctica,1
+The human heart pumps blood throughout the body,The circulation of blood throughout the body is facilitated by the human heart,1
+The Great Barrier Reef is the largest coral reef system,The largest coral reef system is known as the Great Barrier Reef,1
+The speed of sound is faster in solids than in gases,Sound travels faster in solids compared to gases,1
+The Statue of Liberty is located in New York Harbor,New York Harbor is home to the Statue of Liberty,1
+Mars is often referred to as the Red Planet,The Red Planet is a common nickname for Mars,1
+The Pyramids of Giza are ancient structures in Egypt,Ancient structures found in Egypt include the Pyramids of Giza,1
+The Atlantic Ocean is the second-largest ocean in the world,The world's second-largest ocean is the Atlantic Ocean,1
+The human respiratory system includes the lungs,The lungs are a crucial part of the human respiratory system,1
+Nitrogen makes up a significant portion of Earth's atmosphere,A substantial portion of Earth's atmosphere is composed of nitrogen,1
+The Sistine Chapel is renowned for its ceiling painted by Michelangelo,Michelangelo painted the iconic ceiling of the Sistine Chapel,1
+The Nile River is the longest river in Africa,The longest river in Africa is the Nile River,1
+Bananas are a good source of potassium,An excellent source of potassium is found in bananas,1
+A light-year is a unit of astronomical distance,Astronomical distances are often measured in units called light-years,1
+The Mona Lisa is housed in the Louvre Museum,The Louvre Museum is home to the famous painting  the Mona Lisa ,1
+The moon is made of green cheese,The moon's composition includes green cheese,0
+Albert Einstein invented the computer,The computer was invented by Albert Einstein,0
+Humans can breathe underwater,Underwater  humans can breathe as easily as fish,0
+Mount Everest is located in the United States,The United States is home to Mount Everest,0
+Bananas grow on trees, Bananas are harvested from banana trees,0
+Water is not necessary for human survival,Human survival does not require water,0
+The Great Wall of China is visible from the moon,The Great Wall of China cannot be seen from the moon with the naked eye,0
+Elephants can fly, Elephants have the ability to fly,0
+A day on Venus is shorter than a day on Earth,A day on Venus is longer than a day on Earth,0
+The Earth is flat,The Earth is a flat  disc-shaped object,0
+The first computer programmer was Ada Lovelace,Ada Lovelace is recognized as the first computer programmer,1
+The Himalayas are the highest mountain range in the world,The highest mountain range globally is the Himalayas,1
+The Pacific Ring of Fire is known for its high seismic and volcanic activity,High seismic and volcanic activity characterize the Pacific Ring of Fire,1
+Mercury is the hottest planet in our solar system,Venus is the hottest planet in our solar system,0
+Spiders are insects,Insects and spiders belong to the same taxonomic group,0
+Fish can survive out of water for an indefinite period, Fish cannot survive outside of water for an extended time,0
+Goldfish have a three-second memory span,Goldfish possess a much longer memory span than three seconds,0
+You can't fold a piece of paper more than seven times,It's impossible to fold a piece of paper more than 13 times,0
+The sun is a star located at the center of our solar system,At the center of our solar system is a star known as the sun,1
